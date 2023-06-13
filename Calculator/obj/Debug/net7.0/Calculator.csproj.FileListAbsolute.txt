@@ -1,0 +1,15 @@
+/home/yasmin/Calculator/bin/Debug/net7.0/Calculator
+/home/yasmin/Calculator/bin/Debug/net7.0/Calculator.deps.json
+/home/yasmin/Calculator/bin/Debug/net7.0/Calculator.runtimeconfig.json
+/home/yasmin/Calculator/bin/Debug/net7.0/Calculator.dll
+/home/yasmin/Calculator/bin/Debug/net7.0/Calculator.pdb
+/home/yasmin/Calculator/obj/Debug/net7.0/Calculator.csproj.AssemblyReference.cache
+/home/yasmin/Calculator/obj/Debug/net7.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/yasmin/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfoInputs.cache
+/home/yasmin/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfo.cs
+/home/yasmin/Calculator/obj/Debug/net7.0/Calculator.csproj.CoreCompileInputs.cache
+/home/yasmin/Calculator/obj/Debug/net7.0/Calculator.dll
+/home/yasmin/Calculator/obj/Debug/net7.0/refint/Calculator.dll
+/home/yasmin/Calculator/obj/Debug/net7.0/Calculator.pdb
+/home/yasmin/Calculator/obj/Debug/net7.0/Calculator.genruntimeconfig.cache
+/home/yasmin/Calculator/obj/Debug/net7.0/ref/Calculator.dll
